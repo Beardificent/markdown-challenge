@@ -1,8 +1,8 @@
-<h1>Phil Dunphy</h1>
+<h1>CIS MAGITO</h1>
 
 *The most amazing things that can happen to a human being will happen to you, if you just lower your standards*
 
-![image](/home/beardificent/becode/markdown-challenge/IMG_4362.JPG)
+![image](/home/beardificent/becode/markdown-challenge/cis.png)
 
 <h2>LUCHTBAL OG, KAPOEN VAN'T STAD</h2>
 
