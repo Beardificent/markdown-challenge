@@ -1,11 +1,11 @@
-#CIS MAGITO
+# CIS MAGITO
 
 *The most amazing things that can happen to a human being will happen to you, if you just lower your standards.*
 
 ![image](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/cis.png)
-######*"My parents really hoped id be straight, hence my name"- Marcus Tullius Cicero*
+###### *"My parents really hoped id be straight, hence my name"- Marcus Tullius Cicero*
        
-##LUCHTBAL OG, KAPOEN VAN'T STAD
+## LUCHTBAL OG, KAPOEN VAN'T STAD
 
 | | |
 |    :---   |    :----:   |
@@ -14,7 +14,7 @@
 | Favorite food | Five Guys Double Cheese, Full Top, Extra Patty, Extra Cheese |
 | Pineapple on pizza | &#9744; |
 
- ###HOBBIES
+ ### HOBBIES
 
 - Dogboarding
 - Gaming
@@ -31,7 +31,7 @@
 
 
 
-####You can always count on me to...
+#### You can always count on me to...
 
 Hold your hair if you need to puke due to heavy workload stress.
 I'll also buffer any ideas you wish to share or input, even if it's just pure logorrhea[¹].
@@ -43,7 +43,7 @@ I'm a great listener, just don't expect any great answers.
 [¹]Diarrhea from the mouth.
 
 
-#####A funny story
+##### A funny story
 
 ![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/giphy-downsized.gif)
 
@@ -65,7 +65,7 @@ Years later, he's teaching me code stuff.
 
 Thank you, **Sicco**.
 
-######TL;DR
+###### TL;DR
 
 Sicco punched me in the nuts.
 
