@@ -30,8 +30,6 @@
 
 
 
-
-
 <h4>You can always count on me to...</h4>
 
 Hold your hair if you need to puke due to heavy workload stress.
@@ -73,4 +71,7 @@ Sicco punched me in the nuts.
  ![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/nuffsaid.gif)
 
 
-< Awet > Dwayne
+
+
+
+[<<previous page](https://github.com/Awet.Becode/markdown-challenge)
