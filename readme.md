@@ -1,8 +1,8 @@
 <h1>CIS MAGITO</h1>
 
-*The most amazing things that can happen to a human being will happen to you, if you just lower your standards*
+*The most amazing things that can happen to a human being will happen to you, if you just lower your standards.*
 
-![image](/home/beardificent/becode/markdown-challenge/cis.png)
+![image](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/cis.png)
 
 <h2>LUCHTBAL OG, KAPOEN VAN'T STAD</h2>
 
@@ -14,18 +14,18 @@
 | Pineapple on pizza | &#9744; |
 
  <h3>HOBBIES</h3>
-* Dogboarding
-* Gaming
-    * Mortal Kombat
-    * Soulsborne
-    * Battlefront II
-* Vigilante at night
-    * Upholding curfew
-    * Shouting at people having fun to go to bed
-    * Ringing my neighbours bell at 3AM because I got beat up, whilst in my Spidey outfit, and I lost my keys.
-* Air Guitar
-* BBB
-* Fitness
+*  Dogboarding
+*  Gaming
+    *  Mortal Kombat
+    *  Soulsborne
+    *  Battlefront II
+*  Vigilante at night
+    *  Upholding curfew
+    *  Shouting at people having fun to go to bed
+    *  Ringing my neighbours bell at 3AM because I got beat up, whilst in my Spidey outfit, and I lost my keys.
+*  Air Guitar
+*  BBB
+*  Fitness
 
 
 
@@ -37,7 +37,7 @@ Hold your hair if you need to puke due to heavy workload stress.
 I'll also buffer any ideas you wish to share or input, even if it's just pure logorrhea.[¹]
 I'm a great listener, just don't expect any great answers.
 
-![Alt Text](/home/beardificent/becode/markdown-challenge/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/giphy.gif)
 
 
 [¹]Diarrhea from the mouth.
@@ -45,7 +45,7 @@ I'm a great listener, just don't expect any great answers.
 
 <h5>A funny story</h5>
 
-![Alt Text](/home/beardificent/becode/markdown-challenge/giphy-downsized.gif)
+![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/giphy-downsized.gif)
 
 Few years back, when I was filled with youth's energy, full of untapped potential and the biggest hopes, I lived in Ekeren.
 I didn't live in Ekeren alone, a few other cool cats lived around, and we tended to get together and drink beer and eat sandwiches.
@@ -69,6 +69,7 @@ Thank you, **Sicco**.
 
 Sicco punched me in the nuts.
 
- ![Alt Text](/home/beardificent/becode/markdown-challenge/nuffsaid.gif)
+ ![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/nuffsaid.gif)
 
 
+< Awet > Dwayne
