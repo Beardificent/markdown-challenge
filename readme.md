@@ -74,5 +74,7 @@ Sicco punched me in the nuts.
 
 
 
+|[<<  AWET                                    ](https://github.com/awet100/markdown-challenges)     | [                                                      CIS                                                      ](https://github.com/Beardificent/markdown-challenge) |  [                                    DWAYNE >>](https://github.com/dwaynebok/markdown-challenge)
+|:----:|:----:|:----:|
 
-[PREVIOUS PAGE](https://github.com/awet100/markdown-challenges)        <div style="text-align: right"> [NEXT PAGE](https://link.com/) </div> 
+
