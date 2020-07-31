@@ -74,4 +74,5 @@ Sicco punched me in the nuts.
 
 
 
-[<<previous page](https://github.com/Awet.Becode/markdown-challenge)
+
+[PREVIOUS PAGE](https://github.com/awet100/markdown-challenges)         [NEXT PAGE](https://link.com/)
