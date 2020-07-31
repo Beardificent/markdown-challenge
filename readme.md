@@ -1,10 +1,10 @@
-<h1>CIS MAGITO</h1>
+#CIS MAGITO
 
 *The most amazing things that can happen to a human being will happen to you, if you just lower your standards.*
 
 ![image](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/cis.png)
 
-<h2>LUCHTBAL OG, KAPOEN VAN'T STAD</h2>
+##LUCHTBAL OG, KAPOEN VAN'T STAD
 
 | | |
 |    :---   |    :----:   |
@@ -13,7 +13,7 @@
 | Favorite food | Five Guys Double Cheese, Full Top, Extra Patty, Extra Cheese |
 | Pineapple on pizza | &#9744; |
 
- <h3>HOBBIES</h3>
+ ###HOBBIES
 
 - Dogboarding
 - Gaming
@@ -30,7 +30,7 @@
 
 
 
-<h4>You can always count on me to...</h4>
+####You can always count on me to...
 
 Hold your hair if you need to puke due to heavy workload stress.
 I'll also buffer any ideas you wish to share or input, even if it's just pure logorrhea.[¹]
@@ -42,7 +42,7 @@ I'm a great listener, just don't expect any great answers.
 [¹]Diarrhea from the mouth.
 
 
-<h5>A funny story</h5>
+#####A funny story
 
 ![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/giphy-downsized.gif)
 
@@ -64,7 +64,7 @@ Years later, he's teaching me code stuff.
 
 Thank you, **Sicco**.
 
-<h6>TL;DR</h6>
+######TL;DR
 
 Sicco punched me in the nuts.
 
