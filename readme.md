@@ -3,7 +3,8 @@
 *The most amazing things that can happen to a human being will happen to you, if you just lower your standards.*
 
 ![image](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/cis.png)
-
+######*"My parents really hoped id be straight, hence my name"- Marcus Tullius Cicero*
+       
 ##LUCHTBAL OG, KAPOEN VAN'T STAD
 
 | | |
