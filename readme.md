@@ -34,7 +34,7 @@
 ####You can always count on me to...
 
 Hold your hair if you need to puke due to heavy workload stress.
-I'll also buffer any ideas you wish to share or input, even if it's just pure logorrhea.[¹]
+I'll also buffer any ideas you wish to share or input, even if it's just pure logorrhea[¹].
 I'm a great listener, just don't expect any great answers.
 
 ![Alt Text](https://raw.githubusercontent.com/Beardificent/markdown-challenge/master/giphy.gif)
