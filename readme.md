@@ -75,4 +75,4 @@ Sicco punched me in the nuts.
 
 
 
-[PREVIOUS PAGE](https://github.com/awet100/markdown-challenges)         [NEXT PAGE](https://link.com/)
+[PREVIOUS PAGE](https://github.com/awet100/markdown-challenges)        <div style="text-align: right"> [NEXT PAGE](https://link.com/) </div> 
