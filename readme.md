@@ -14,18 +14,19 @@
 | Pineapple on pizza | &#9744; |
 
  <h3>HOBBIES</h3>
-*  Dogboarding
-*  Gaming
-    *  Mortal Kombat
-    *  Soulsborne
-    *  Battlefront II
-*  Vigilante at night
-    *  Upholding curfew
-    *  Shouting at people having fun to go to bed
-    *  Ringing my neighbours bell at 3AM because I got beat up, whilst in my Spidey outfit, and I lost my keys.
-*  Air Guitar
-*  BBB
-*  Fitness
+
+- Dogboarding
+- Gaming
+    -  Mortal Kombat
+    -  Soulsborne
+    -  Battlefront II
+-  Vigilante at night
+    -  Upholding curfew
+    -  Shouting at people having fun to go to bed
+    -  Ringing my neighbours bell at 3AM because I got beat up, whilst in my Spidey outfit, and I lost my keys.
+-  Air Guitar
+-  BBB
+-  Fitness
 
 
 
